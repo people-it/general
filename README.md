@@ -1,2 +1,2 @@
 # general
-Generic scripting tools and. practices.
+Generic scripting tools and practices.
